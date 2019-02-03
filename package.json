@@ -14,7 +14,8 @@
   },
   "devDependencies": {
     "node-sass": "^4.9.4",
-    "sass-loader": "^7.1.0"
+    "sass-loader": "^7.1.0",
+    "terser": "^3.14.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,5 +23,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
