@@ -34,3 +34,6 @@
 32. Template & Data & translations can be updated and reloaded
 33. Update Manager to handler templates updates and reload socket.io connections like push notifications
 34. lazy looading for all templates and partial components
+35. Enable right click menu
+36. Enable clear cache
+37. Enable Database sync with live database for PWA apps
